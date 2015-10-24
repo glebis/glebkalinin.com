@@ -1,0 +1,16 @@
+---
+title: Jumping on a Bitcoin bandwagon
+date: 2014-02-17
+tags:
+- bitcoin
+---
+
+As someone who doesn't live in the woods, I've heard about Bitcoin a lot, but never found time to get into the subject properly. Well, turns out it's not that easy to get your head around the subject — it's hard. But [this podcast](http://podcasts.joerogan.net/podcasts/andreas-antonopoulos) guest-starring Andreas Antonopoulos, a Bitcoint enthusiast and enterpreneur has changed a lot in how I see crypto currencies	and Bitcoin in particular. Actually, this two and half podcast is the most enlightening piece of information I've encountered so far (though I've just started my research).
+
+Andreas is so enthusiastic about the technology that he has quit his day job, lived through his savings for a year or something until this hobby became to pay for itself. He's now consulting several Bitcoin startups and works as a security consultant. What really struck me is his comparison of what Bitcoin is nowadays to what Internet was in early 90-th. It was a technology mostly no one understood because it was hard: email, FTP, browsers, protocols yada yada. But inevitably more and more people start using it over the time because of how convenient the technology is. The same applies for Bitcoin: very few people understand it, even fewer people use, but the technology in itself is so powerful it has a very good chance of becoming ubiquitous. (Unless it's completely oppressed and banned by governments. Which **is** a possibility, no illusions here, presumably it'll become illegal in Russia pretty soon.)
+
+Well, anyway, I was so excited (just like I was excited about Internet and even BBSs in 1997) I decided I'd give it another try. Last time I downloaded the default client (Bitcoin-Qt) which appeared to be pretty slow, required dozens of gigabytes on my disk and it took it ages to sync with the network. This time I went with Multibit which was way more lightweight. Unfortunately, I'm joining the club right after Apple has decided to ban the last Bitcoin app from Appstore, so no mobile payments for me.
+
+Anyway, I've spent several hours trying to buy some Bitcoin. Services like Bitstamp and Coinbase are slow and mainly for US citizens (they require US bank account/ billing address authorisation or charge extra fees for using credit cards). So I was looking for other options. Man, this is difficult if you are in Russia. I didn't have to dive into deep web to do it, but the sites I had to go to were weird and didn't look trustworthy. I ended up landing on BTC-E.com which seem legit enough (at least to Russian standards) and after transferring funds from one account to another and then another I bought my $50 worth BTC 0.0857282. Alas, although I don't have to go through any humiliation authentication procedure, I have to wait for another 3 days to transfer my precious crypto currency to my private wallet. (Until then I might simply loose the money, but I assume the risk rather little.)
+
+Although I still can't use my virtual money, I feel content just like after my first email respond. We'll see how it goes.
