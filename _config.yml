@@ -29,7 +29,7 @@ searchid: 2240795
 url: http://glebkalinin.com
 root: /
 permalink: :title/
-permalink_defaults:
+# permalink_defaults:
 
 # Directory
 source_dir: source
